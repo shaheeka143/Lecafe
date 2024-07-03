@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Optional: Add more CSS to style the sections, links, etc. */

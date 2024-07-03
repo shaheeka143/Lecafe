@@ -1,0 +1,32 @@
+.menu {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu h1 {
+    text-align: center;
+    color: #333;
+}
+
+.menu-item {
+    margin-bottom: 20px;
+}
+
+.menu-item h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.menu-item p {
+    margin-top: 5px;
+    color: #666;
+}
+
+.price {
+    font-weight: bold;
+    color: #333;
+}
